@@ -9,3 +9,4 @@ elif sayı > 170:
         print ("∞")
 else:
         print(deger)
+#git degisiklik deneme
