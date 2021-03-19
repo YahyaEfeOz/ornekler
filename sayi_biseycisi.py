@@ -17,4 +17,4 @@ elif c>b>a:
 elif c > a > b:
     print(f'{c}>{a}>{b}')
 else:print("Geçersiz Giriş")
-#kendimi kandırıyormuş gibi hissediyorum bunun başka bir yolu olmalı :(
+#kendimi kandırıyormuş gibi hissediyorum bunun başka bir yolu olmalı değil mi?
