@@ -1,6 +1,6 @@
 import random
 
-# T>M, M>K, K>T
+# Taş>Makas, Makas>Kağıt, Kağıt>Taş
 hand_list = {
     "T": "Taş",
     "K": "Kağıt",
@@ -19,7 +19,7 @@ def start_game():
     else:
         message = f"KAYBETTİNİZ! {message}"
 
-    return message #print işlevinde
+    return message #return print işlevinde
 
 def is_win(player, bot):
     # T>M, M>K, K>T
